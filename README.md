@@ -1,4 +1,3 @@
-# JwtAuth
 
 ### Start client
 
